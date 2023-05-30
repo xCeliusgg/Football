@@ -8,3 +8,5 @@ A class for Football Club is defined at the beggining with a constructor and the
 5. Season goals
 6. Season points
 
+The code gives the user an option to simulate a match between the teams that he creates.
+In the result, the winner is announced according to the generated scoreboard.

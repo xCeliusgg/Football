@@ -1,6 +1,7 @@
-> Football Clubs Matchday Simulation 
+# Football Clubs Matchday Simulation 
 
-A class for Football Club is defined at the beggining with a constructor and the following attributes:
+
+ A class for Football Club is defined at the beggining with a constructor and the following attributes:
 1. Name
 2. Manager
 3. Year of creation
